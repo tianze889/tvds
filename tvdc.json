@@ -254,6 +254,7 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
+
     {
       "name": "x22c",
       "type": 0,
