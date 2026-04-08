@@ -1,5 +1,12 @@
 {
   "lives": [
+       {
+    "name": "全球电视直播",
+    "url": "https://ghproxy.net/raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt",
+    "playerType": 2,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "catvod",
       "type": 0,
@@ -236,13 +243,7 @@
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
   },
-    {
-    "name": "kimwang1978",
-    "url": "https://ghproxy.net/raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt",
-    "playerType": 2,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+
     {
   "name":"gggg.nzk",
   "boot": true,
