@@ -487,6 +487,15 @@
       "timeout":10
       },
      {
+      "name":"♥资源宝库🌅",
+      "type":0,
+      "url":"https://cccimg.com/down.php/135a1c4e04ed20021ce9e0547c87000d.txt",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     {
       "name":"🐟🍄szwxk🍄🐟",
       "type":0,
       "url":"https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u",
