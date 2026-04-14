@@ -3,7 +3,7 @@
      {
       "name":"🛰️全球电视直播",
       "type":0,
-      "url":"https://gh-proxy.org/https:/raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "url":"https://gh-proxy.com/https://github.com/tianze889/tvds/raw/refs/heads/main/yiyifafa.txt",
       "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo":"https://gongdian.top/tv/taibiao/{name}.png",
       "playerType":2,
@@ -163,6 +163,15 @@
       "timeout":10
       },
      {
+      "name":"📤依依发发",
+      "type":0,
+      "url":"https://gh-proxy.org/https:/raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     {
       "name":"📺全国组播",
       "type":0,
       "url":"https://d.kstore.dev/download/8344/全国组播.txt",
@@ -288,6 +297,7 @@
       "playerType":2,
       "timeout":10
       },
+    
      {
       "name":"🔋电信Kimentanm",
       "type":0,
