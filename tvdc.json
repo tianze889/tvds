@@ -55,6 +55,33 @@
       "timeout":10
       },
      {
+      "name":"☃️广东iptv4",
+      "type":0,
+      "url":"https://gh-proxy.org/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      }, 
+     {
+      "name":"🔥火麒麟interface",
+      "type":0,
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      }, 
+     {
+      "name":"🛫北京rtp",
+      "type":0,
+      "url":"https://raw.giteeusercontent.com/yuweirong6684/tv-live-streaming-source/raw/master/rtp.txt",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },     
+     {
       "name":"✨lwr851",
       "type":0,
       "url":"https://gitee.com/lwr851/live/raw/master/iptv.m3u",
