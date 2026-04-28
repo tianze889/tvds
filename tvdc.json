@@ -28,6 +28,33 @@
       "timeout":10
       },
      {
+      "name":"🎠香港频道",
+      "type":0,
+      "url":"https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     {
+      "name":"👽台湾频道",
+      "type":0,
+      "url":"https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     {
+      "name":"🛫澳门频道",
+      "type":0,
+      "url":"https://live.hacks.tools/tv/ipv4/categories/macau.m3u",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     {
       "name":"🛒河南组播",
       "type":0,
       "url":"https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
