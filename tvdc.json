@@ -91,6 +91,42 @@
       "timeout":10
       },
      {
+      "name":"🎞️全球电视",
+      "type":0,
+      "url":"https://live.hacks.tools/tv/iptv4.txt",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     {
+      "name":"📡国内电视",
+      "type":0,
+      "url":"https://live.hacks.tools/tv/iptv4.txt",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     {
+      "name":"🛰️国际电视",
+      "type":0,
+      "url":"https://live.hacks.tools/iptv/index.m3u",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     {
+      "name":"🌏全球10000+频道",
+      "type":0,
+      "url":"https://bestiptv.hacks.tools/api/download?type=all&slug=index",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },  
+     {
       "name":"🏀体育赛事",
       "type":0,
       "url":"http://43.251.226.110:9991/qm0jue",
