@@ -74,7 +74,7 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 
 🇨🇳港台电影,#genre#
 好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+好莱坞电影台,https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 好莱坞电影台,https://t.freetv.fun/live/hollywood.m3u8
 好莱坞电影台,https://bozztv.com/hwotta/playlist/playlist.m3u8
 好莱坞电影台,https://younghollywood-tcl.amagi.tv/playlist.m3u8
@@ -325,7 +325,7 @@ JJ斗地主频道,http://cfss.cc/cdn/huya/14079954.flv
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
 好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+好莱坞电影台,https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 好莱坞电影台,https://t.freetv.fun/live/hollywood.m3u8
 好莱坞电影台,https://bozztv.com/hwotta/playlist/playlist.m3u8
 好莱坞电影台,https://younghollywood-tcl.amagi.tv/playlist.m3u8
@@ -381,7 +381,7 @@ tvbs闽南频道,http://61.221.215.25:8800/hls/9/index.m3u8
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+好莱坞电影台,https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 好莱坞电影台,https://t.freetv.fun/live/hollywood.m3u8
 好莱坞电影台,https://bozztv.com/hwotta/playlist/playlist.m3u8
 好莱坞电影台,https://younghollywood-tcl.amagi.tv/playlist.m3u8
@@ -606,7 +606,7 @@ JJ斗地主频道,http://cfss.cc/cdn/huya/14079954.flv
 
 香港台湾,#genre#
 好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+好莱坞电影台,https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 好莱坞电影台,https://t.freetv.fun/live/hollywood.m3u8
 好莱坞电影台,https://bozztv.com/hwotta/playlist/playlist.m3u8
 好莱坞电影台,https://younghollywood-tcl.amagi.tv/playlist.m3u8
