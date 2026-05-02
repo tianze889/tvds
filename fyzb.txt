@@ -73,8 +73,12 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 
 
 🇨🇳港台电影,#genre#
+好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+好莱坞电影台,https://t.freetv.fun/live/hollywood.m3u8
 好莱坞电影台,https://bozztv.com/hwotta/playlist/playlist.m3u8
 好莱坞电影台,https://younghollywood-tcl.amagi.tv/playlist.m3u8
+好莱坞电影台,https://younghollywood-rakuten-samsung.amagi.tv/240p-cc/index.m3u8
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映经典,https://o11.163189.xyz/stream/live/ccm/
@@ -320,8 +324,12 @@ JJ斗地主频道,http://cfss.cc/cdn/huya/14079954.flv
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
-好莱坞电影台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mDkrkxKAnKwIzb1AVpQElSxrJTXogKLSEoS0FbIeFwnm1Jc359utC2S7-ILqiObeeiOPbb5y-hAhyWCRu3GyGDo5vkg9bX6qKVUkmqlTUfgmiY_w65YJ37OPLFHYBJpxIDFGvMQVUTO2v3wwt6c6yC91RCqf7UX9LRtHvilvB2CYeaNMR0yZecNKHDIRe7ov0w.m3u8?u=1756878715
-PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
+好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+好莱坞电影台,https://t.freetv.fun/live/hollywood.m3u8
+好莱坞电影台,https://bozztv.com/hwotta/playlist/playlist.m3u8
+好莱坞电影台,https://younghollywood-tcl.amagi.tv/playlist.m3u8
+好莱坞电影台,https://younghollywood-rakuten-samsung.amagi.tv/240p-cc/index.m3u8
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://cdn6.163189.xyz/163189/fct
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
@@ -372,8 +380,12 @@ tvbs闽南频道,http://61.221.215.25:8800/hls/9/index.m3u8
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-好莱坞电影台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mDkrkxKAnKwIzb1AVpQElSxrJTXogKLSEoS0FbIeFwnm1Jc359utC2S7-ILqiObeeiOPbb5y-hAhyWCRu3GyGDo5vkg9bX6qKVUkmqlTUfgmiY_w65YJ37OPLFHYBJpxIDFGvMQVUTO2v3wwt6c6yC91RCqf7UX9LRtHvilvB2CYeaNMR0yZecNKHDIRe7ov0w.m3u8?u=1756878715
-PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
+好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+好莱坞电影台,https://t.freetv.fun/live/hollywood.m3u8
+好莱坞电影台,https://bozztv.com/hwotta/playlist/playlist.m3u8
+好莱坞电影台,https://younghollywood-tcl.amagi.tv/playlist.m3u8
+好莱坞电影台,https://younghollywood-rakuten-samsung.amagi.tv/240p-cc/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
@@ -593,8 +605,12 @@ JJ斗地主频道,http://cfss.cc/cdn/huya/14079954.flv
 爱情生活频道,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
 香港台湾,#genre#
-好莱坞电影台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mDkrkxKAnKwIzb1AVpQElSxrJTXogKLSEoS0FbIeFwnm1Jc359utC2S7-ILqiObeeiOPbb5y-hAhyWCRu3GyGDo5vkg9bX6qKVUkmqlTUfgmiY_w65YJ37OPLFHYBJpxIDFGvMQVUTO2v3wwt6c6yC91RCqf7UX9LRtHvilvB2CYeaNMR0yZecNKHDIRe7ov0w.m3u8?u=1756878715
-PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
+好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+好莱坞电影台,https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+好莱坞电影台,https://t.freetv.fun/live/hollywood.m3u8
+好莱坞电影台,https://bozztv.com/hwotta/playlist/playlist.m3u8
+好莱坞电影台,https://younghollywood-tcl.amagi.tv/playlist.m3u8
+好莱坞电影台,https://younghollywood-rakuten-samsung.amagi.tv/240p-cc/index.m3u8
 澳门体育,http://cdn6.163189.xyz/163189/amty
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
