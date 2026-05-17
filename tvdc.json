@@ -318,16 +318,7 @@
      {
       "name":"🌃香港hong_kong",
       "type":0,
-      "url":"https://freetv.fun/test_channels_hong_kong_original_new.txt",
-      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
-      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
-      "playerType":2,
-      "timeout":10
-      },
-     {
-      "name":"🌄台湾taiwan",
-      "type":0,
-      "url":"https://freetv.fun/test_channels_taiwan_original_new.txt",
+      "url":"https://t.freetv.fun/m3u/playlist_original.txt",
       "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo":"https://gongdian.top/tv/taibiao/{name}.png",
       "playerType":2,
