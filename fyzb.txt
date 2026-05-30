@@ -397,12 +397,12 @@ CHC家庭影院,http://111.231.6.102:1234/644368373
 最强综艺趴,http://111.231.6.102:1234/629942228
 
 🇨🇳港台电影,#genre#
-好莱坞电影台,http://38.76.205.104:660/cdnlive.php?mode=play;id=885bea947b43526caf65e9d4702e1e2f;token=8JHJbFjSVWW1yh6v2QmA7Ef59GdgVZmJ
 好莱坞电影台,https://pulltest-gem.alivecdn.com/live/n5xl0Q7RvFviOaSFXjW9qPblESaol5ZUg9aDjGnRuRNviafqX6.flv
+好莱坞电影台,http://38.76.205.104:660/cdnlive.php?mode=play;id=885bea947b43526caf65e9d4702e1e2f;token=8JHJbFjSVWW1yh6v2QmA7Ef59GdgVZmJ
 好莱坞电影台,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
 中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
-中天新闻,https://pull-wsu.liveonlinetest.com/live/nZWx3bceUJ5IXsQsBNhbLNBnH2vyDoW8dpFHbI5j1w0Az7shIA.flv
-中天新闻,http://38.76.205.104:660/cdnlive.php?mode=play;id=b0d84a665b14595f9ba14f1ea524e19c;token=8JHJbFjSVWW1yh6v2QmA7Ef59GdgVZmJ
+中天新闻,https://pulltest-gem.alivecdn.com/live/ogVoQHdl8jVsdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+中天新闻,http://38.76.205.104:660/cdnlive.php?mode=play;id=800e215cf4d45a5b8e2bd2f4b9997ee9;token=8JHJbFjSVWW1yh6v2QmA7Ef59GdgVZmJ
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 PopC电影,https://rc.bjrcwl.com/live/SbH33ezfSdsOpaI2kqwSFjoiQOD7wAFMTOK5qG1aVgIFlFV4ZW.flv
 PopC电影,http://38.76.205.104:660/cdnlive.php?mode=play;id=12d1edde159252f583fb0051ffc04202;token=8JHJbFjSVWW1yh6v2QmA7Ef59GdgVZmJ
