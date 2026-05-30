@@ -399,7 +399,7 @@ CHC家庭影院,http://111.231.6.102:1234/644368373
 🇨🇳港台电影,#genre#
 好莱坞电影台,http://38.76.205.104:660/cdnlive.php?mode=play;id=885bea947b43526caf65e9d4702e1e2f;token=8JHJbFjSVWW1yh6v2QmA7Ef59GdgVZmJ
 好莱坞电影台,https://pulltest-gem.alivecdn.com/live/n5xl0Q7RvFviOaSFXjW9qPblESaol5ZUg9aDjGnRuRNviafqX6.flv
-
+好莱坞电影台,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映经典,https://o11.163189.xyz/stream/live/ccm/
