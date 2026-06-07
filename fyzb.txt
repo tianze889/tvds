@@ -3474,7 +3474,7 @@ NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&strea
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 
-🌏全球台直播,#genre#
+🌏全球台直播(捐赠5元获取频道密码)_8657,#genre#
 🇦🇹奥地利Moviesphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 🇫🇷法国Eurosport,http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
 🇬🇧英国Sky Sports Premier League,https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186604.ts
