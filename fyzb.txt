@@ -566,7 +566,7 @@ RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=20203
 RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
 RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
 CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
-广东珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144
+广东,http://67.220.71.199:2347/livehttpplay?channel_id=20144
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=30031
@@ -720,6 +720,10 @@ CGTN阿拉伯语,http://gslbserv.itv.cmvideo.cn:80/1000000006000280001/1.m3u8?ch
 TVB星河,https://cdn6.163189.xyz/163189/tvbxh
 
 🍑极速港台2,#genre#
+广东珠江,https://cdn2.163189.xyz/163189/gdzj
+广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东体育,https://cdn2.163189.xyz/163189/gdty
+广东体育,http://net.manyee.net:18888/rtp/239.77.0.112:5146
 广东珠江,http://r.jdshipin.com/sE5vO
 广东体育,http://r.jdshipin.com/LiYdg
 广州综合,http://r.jdshipin.com/iR6Gq
