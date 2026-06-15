@@ -789,10 +789,17 @@ VIUTV'粤频道,http://cdn.163189.xyz/163189/viu
 韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 
 ☀️日本頻道☀️,#genre#
+CGN日本,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+DellaTV (720p),https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+GSTV (720p),https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+JOCX-DTV,https://fujitv4.mov3.co/hls/fujitv.m3u8
+JORX-DTV,https://tbs5.mov3.co/hls/tbs.m3u8
+NHK World-Japan (1080p),https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+QVC (1080p),https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+Shop Channel (1080p) [Not 24/7],https://stream3.shopch.jp/HLS/master.m3u8
+Weathernews (720p),https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
 NHK 総合,https://nhk4.mov3.co/hls/nhk.m3u8
-TOKYO MX1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=6
-Disney Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=6
 スペースシャワーTV/SPACE SHOWER TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=6
 BS 松竹東急,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=6
 ミュージック・ジャパンTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=6
@@ -830,7 +837,6 @@ WOWOW Live,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs
 Star Channel 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=6
 J SPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=6
 J SPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=6
-日本映画専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=6
 BS釣りビジョン,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=6
 スカイ・A / Sky A,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=6
 日テレジータス / Nittele G+,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=6
@@ -908,6 +914,9 @@ Cartoon Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c
 東映チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
 TAKARAZUKA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=4
 チャンネル銀河,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=4
+
+
+
 
 ☀️馬來頻道☀️,#genre#
 TELECARIBE HD COLOMBIA,http://108.181.20.255:27347/livehttpplay?channel_id=23534
