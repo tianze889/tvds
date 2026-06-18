@@ -720,12 +720,9 @@ CGTN阿拉伯语,http://gslbserv.itv.cmvideo.cn:80/1000000006000280001/1.m3u8?ch
 TVB星河,https://cdn6.163189.xyz/163189/tvbxh
 
 🍑极速港台2,#genre#
-广东珠江,http://go.bkpcp.top/mg/gdzj
 广东珠江,http://192.151.150.154/live/gdzja.m3u8
 广东珠江,http://198.204.228.26/live/gdzja.m3u8
 广东珠江,http://www.syy3.top:3861/udp/239.77.0.1:5146
-广东珠江,https://cdn2.163189.xyz/163189/gdzj
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
 广东体育,http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
 广东体育,http://gdyd.7259.cc.cd:4014/udp/239.77.0.112:5146
 广东体育,https://cdn2.163189.xyz/163189/gdty
